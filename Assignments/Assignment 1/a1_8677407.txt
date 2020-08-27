@@ -1,0 +1,142 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> # testing question 1
+>>> repeat("ho", 3, ", ")
+'ho, ho, ho'
+>>> # testing question 2
+>>> is_prime(28)
+False
+>>> is_prime(29)
+True
+>>> # testing question 3
+>>> points(0, 0, 1, 1)
+The slope is 1.0 and the distance is 1.0
+>>> points(0, 0, 0, 1)
+The slope is infinity and the distance is 0.0
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> points(0, 0, 1, 1)
+The slope is 1.0 and the distance is 1.4142135623730951
+>>> points(0, 0, 0, 1)
+The slope is infinity and the distance is 1.0
+>>> # testing question 4
+>>> month_apart( 6, 14, 9, 21)
+True
+>>> month_apart( 4, 5, 5, 15)
+True
+>>> month_apart( 4, 15, 5, 15)
+True
+>>> month_apart( 4, 16, 5, 15)
+False
+>>> month_apart( 6, 14, 6, 8)
+False
+>>> month_apart( 7, 7, 6, 8)
+False
+>>> month_apart( 7, 8, 6, 8)
+True
+>>> month_apart(10, 14, 7, 15)
+True
+>>> # testing question 5
+>>> reverse_int(123)
+321
+>>> reverse_int(908)
+809
+>>> # testing question 6
+>>> vowelCount('Le Tour de France')
+Traceback (most recent call last):
+  File "<pyshell#23>", line 1, in <module>
+    vowelCount('Le Tour de France')
+  File "C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py", line 98, in vowelCount
+    a = string.count('a')
+AttributeError: 'builtin_function_or_method' object has no attribute 'count'
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> vowelCount('Le Tour de France')
+Traceback (most recent call last):
+  File "<pyshell#24>", line 1, in <module>
+    vowelCount('Le Tour de France')
+  File "C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py", line 98, in vowelCount
+    a = string.count('a')
+AttributeError: 'builtin_function_or_method' object has no attribute 'count'
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> vowelCount('Le Tour de France')
+Traceback (most recent call last):
+  File "<pyshell#25>", line 1, in <module>
+    vowelCount('Le Tour de France')
+  File "C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py", line 104, in vowelCount
+    print (" a, e, i, o, and u appear, respectively," + str(a), + str(e), + str(i), + str(o), + str(u) + "times.")
+TypeError: bad operand type for unary +: 'str'
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> vowelCount('Le Tour de France')
+Traceback (most recent call last):
+  File "<pyshell#26>", line 1, in <module>
+    vowelCount('Le Tour de France')
+  File "C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py", line 113, in vowelCount
+    print (" a, e, i, o, and u appear, respectively," + a, + e, + i, + o, + u + "times.")
+TypeError: bad operand type for unary +: 'str'
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> vowelCount('Le Tour de France')
+ a, e, i, o, and u appear, respectively,1,3,0,0,1times.
+>>> #testing 8
+>>> leap(2008)
+True
+>>> leap(1900)
+False
+>>> leap(2000)
+True
+>>> letter2number('A-')
+3.7
+>>> letter2number('B+')
+3.3
+>>> letter2number('D')
+1.0
+>>> #testing 10
+>>> is_palindrome('madam')
+True
+>>> #testing question 11
+>>> is_nneg_float("2.15")
+True
+>>> is_nneg_float("3.")
+True
+>>> is_nneg_float(".5")
+True
+>>> is_nneg_float("123")
+True
+>>> is_nneg_float("-12")
+False
+>>> is_nneg_float("1e10")
+False
+>>> # testing question 12
+>>> rps('R', 'P')
+1
+>>> rps('R', 'S')
+-1
+>>> rps('S', 'S')
+0
+>>> #testing 13
+>>> alogical(5.4)
+3
+>>> count_even_digits(8346387, 7)
+1
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> count_even_digits(8346387, 7)
+1
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> count_even_digits(8346387, 7)
+4
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 1\Assignment_1.py 
+>>> count_even_digits(8346387, 7)
+4
+>>> 

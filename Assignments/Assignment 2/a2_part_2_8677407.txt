@@ -1,0 +1,47 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 2\a2_part 2_8677407.py 
+
+This program reads exam/homework scores and reports your overall course grade.
+
+Midterm 1:
+Weight (0-100)? 10
+Score earned? 78
+Were scores shifted (1=yes, 2=no)? 2
+Total Points = 78 / 100
+Weighted Score = 7.8 / 10
+
+Midterm 2:
+Weight (0-100)? 10
+Score earned? 84
+Were scores shifted (1=yes, 2=no)? 2
+Total Points = 84 / 100
+Weighted Score = 8.4 / 10
+
+Final:
+Weight (0-100)? 30
+Score earned? 95
+Were scores shifted (1=yes, 2=no)? 1
+Shift amount? 10
+Total Points = 100 / 100
+Weighted Score = 30.0 / 30
+
+Homework: 
+Weight (0-100)? 50
+Number of assignments? 3
+Assignment 1 score? 14
+Assignment 1 max? 15
+Assignment 2 score? 17
+Assignment 2 max? 20
+Assignment 3 score? 19
+Assignment 3 max? 25
+How many sections did you attend? 5
+Section points = 15 / 34
+Total points = 65 / 94
+Weighted score = 34.6 / 50
+
+Overall Percentage = 80.8
+Your grade will be at least: B
+Great Job!
+>>> 

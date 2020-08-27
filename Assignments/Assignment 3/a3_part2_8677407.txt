@@ -1,0 +1,24 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 3\A3_part2_8677407.py 
+8 of Diamonds
+4 of Spades
+9 of Clubs
+6 of Hearts
+Number of picks: 5
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 3\A3_part2_8677407.py 
+Ace of Diamonds
+King of Spades
+Queen of Clubs
+10 of Hearts
+Number of picks: 7
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 3\A3_part2_8677407.py 
+4 of Diamonds
+4 of Spades
+1 of Clubs
+6 of Hearts
+Number of picks: 7
+>>> 

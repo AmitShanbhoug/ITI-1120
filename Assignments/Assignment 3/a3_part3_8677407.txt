@@ -1,0 +1,104 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 3\a3_part3_8677407.py 
+(Guess) Enter a letter in word ****** > q
+q is not in the word
+(Guess) Enter a letter in word ****** > w
+w is not in the word
+(Guess) Enter a letter in word ****** > e
+(Guess) Enter a letter in word *****e > r
+r is not in the word
+(Guess) Enter a letter in word *****e > t
+t is not in the word
+(Guess) Enter a letter in word *****e > y
+y is not in the word
+(Guess) Enter a letter in word *****e > u
+u is not in the word
+(Guess) Enter a letter in word *****e > i
+i is not in the word
+(Guess) Enter a letter in word *****e > o
+o is not in the word
+(Guess) Enter a letter in word *****e > p
+p is not in the word
+(Guess) Enter a letter in word *****e > a
+(Guess) Enter a letter in word **a**e > s
+s is not in the word
+(Guess) Enter a letter in word **a**e > d
+d is not in the word
+(Guess) Enter a letter in word **a**e > f
+f is not in the word
+(Guess) Enter a letter in word **a**e > g
+(Guess) Enter a letter in word **a*ge > h
+(Guess) Enter a letter in word *ha*ge > j
+j is not in the word
+(Guess) Enter a letter in word *ha*ge > k
+k is not in the word
+(Guess) Enter a letter in word *ha*ge > l
+l is not in the word
+(Guess) Enter a letter in word *ha*ge > z
+z is not in the word
+(Guess) Enter a letter in word *ha*ge > x
+x is not in the word
+(Guess) Enter a letter in word *ha*ge > c
+(Guess) Enter a letter in word cha*ge > v
+v is not in the word
+(Guess) Enter a letter in word cha*ge > b
+b is not in the word
+(Guess) Enter a letter in word cha*ge > n
+
+The word is change . You missed 19 times.
+
+Do you want to guess another word? Enter y or n m
+>>> 
+ RESTART: C:\Users\AmitS\Documents\2019 Winter\Intro to Computing\Assignments\Assignment 3\a3_part3_8677407.py 
+(Guess) Enter a letter in word ******* > q
+q is not in the word
+(Guess) Enter a letter in word ******* > w
+w is not in the word
+(Guess) Enter a letter in word ******* > e
+e is not in the word
+(Guess) Enter a letter in word ******* > r
+(Guess) Enter a letter in word *r**r** > t
+t is not in the word
+(Guess) Enter a letter in word *r**r** > y
+y is not in the word
+(Guess) Enter a letter in word *r**r** > u
+u is not in the word
+(Guess) Enter a letter in word *r**r** > i
+i is not in the word
+(Guess) Enter a letter in word *r**r** > o
+(Guess) Enter a letter in word *ro*r** > p
+(Guess) Enter a letter in word pro*r** > a
+(Guess) Enter a letter in word pro*ra* > s
+s is not in the word
+(Guess) Enter a letter in word pro*ra* > d
+d is not in the word
+(Guess) Enter a letter in word pro*ra* > f
+f is not in the word
+(Guess) Enter a letter in word pro*ra* > g
+(Guess) Enter a letter in word progra* > h
+h is not in the word
+(Guess) Enter a letter in word progra* > j
+j is not in the word
+(Guess) Enter a letter in word progra* > m
+
+The word is program . You missed 12 times.
+
+Do you want to guess another word? Enter y or n y
+(Guess) Enter a letter in word ***** > q
+q is not in the word
+(Guess) Enter a letter in word ***** > w
+(Guess) Enter a letter in word w**** > e
+(Guess) Enter a letter in word w***e > r
+(Guess) Enter a letter in word wr**e > t
+(Guess) Enter a letter in word wr*te > y
+y is not in the word
+(Guess) Enter a letter in word wr*te > u
+u is not in the word
+(Guess) Enter a letter in word wr*te > i
+
+The word is write . You missed 3 times.
+
+Do you want to guess another word? Enter y or n o
+>>> 
