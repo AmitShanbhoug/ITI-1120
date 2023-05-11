@@ -1,0 +1,95 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/AmitS/OneDrive/Documents/2018 Fall/ITI 1120/Assignments/Assignment 2/To Submit/a2_part2_8677407.py 
+>>> # Testing 2.1
+>>> min_enclosing_rectangle(1,1,1)
+(0, 0)
+>>> min_enclosing_rectangle(4.5, 10, 2)
+(5.5, -2.5)
+>>> min_enclosing_rectangle(-1, 10, 2)
+>>> min_enclosing_rectangle(500, 1000, 2000)
+(500, 1500)
+>>> # Testing 2.2
+>>> series_sum()
+Please enter a non-negative ineteger: -10
+>>> 
+KeyboardInterrupt
+>>>  series_sum()
+SyntaxError: unexpected indent
+>>> series_sum()
+Please enter a non-negative ineteger: 0
+1000
+>>> series_sum()
+Please enter a non-negative ineteger: 5
+1001.463611111111
+>>> # Testing 2.3
+>>> pell(0)
+0
+>>> pell(1)
+1
+>>> pell(2)
+2
+>>> pell(3)
+5
+>>> pell(-45)
+>>> pell(6)
+70
+>>> # Testing 2.4
+>>> countMembers("\\")
+0
+>>> 
+ RESTART: C:/Users/AmitS/OneDrive/Documents/2018 Fall/ITI 1120/Assignments/Assignment 2/To Submit/a2_part2_8677407.py 
+>>> countMembers("\\")
+1
+>>> countMembers("2\'")
+1
+>>>  countMembers("1\'")
+SyntaxError: unexpected indent
+>>> countMembers("1\'")
+0
+>>> countMembers("2aAb3?eE'_13")
+4
+>>> countMembers("one, Two")
+3
+>>> # Testing 2.5
+>>> 
+ RESTART: C:/Users/AmitS/OneDrive/Documents/2018 Fall/ITI 1120/Assignments/Assignment 2/To Submit/a2_part2_8677407.py 
+>>> casual_number("251")
+251
+>>> casual_number("1,aba,251")
+>>> casual_number("1,251")
+1251
+>>> casual_number("1251")
+1251
+>>> casual_number("-97,251")
+-97251
+>>> casual_number("-97251")
+-97251
+>>> casual_number("-,,,,")
+>>> casual_number("--97,251")
+>>> casual_number("-")
+>>> casual_number("-1,000,001")
+-1000001
+>>> casual_number("999,999,999,876")
+999999999876
+>>> casual_number("-2")
+-2
+>>> # Testing 2.6
+>>> alienNumbers("a!ya!U!NaU")
+1095
+>>> alienNumbers("aaaUUU")
+129
+>>> alienNumbers("")
+0
+>>> # Testing 2.7
+>>> alienNumbersAgain("a!ya!U!NaU")
+1095
+>>> alienNumbersAgain("aaaUUU")
+129
+>>> alienNumbersAgain("")
+0
+>>> # Testing 2.8
+>>> encrypt("Hello, world")
+''
+>>> 

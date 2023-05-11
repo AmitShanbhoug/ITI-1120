@@ -1,0 +1,24 @@
+#1 if you wanna remove the bracket, put an asterix.
+
+e.g. a = [100,200,3,4]
+     print(*a)
+
+#2
+
+for ch in s:
+	print(ch, end=' ')
+
+t o d a y
+
+
+
+loop over the position of the list as opposed to the elements of the list.
+
+
+(((1 + math.sqrt(2))**n) - ((1 - math.sqrt(2)**n))/(2**math.sqrt(2)))
+
+
+
+
+  i += ((s.count("T") * 1024) + (s.count("y") * 598) + (s.count("!") * 121) + (s.count("a") * 42) + (s.count("N") * 6) + (s.count("U") * 1))
+    return i
